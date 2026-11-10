@@ -1,4 +1,4 @@
-# Cloud & Rain Animation
+# Cloud and Rain Animation
 
 A cloud with falling raindrops built with pure HTML and CSS, no JavaScript. Created as practice with CSS animations, custom properties and pseudo-elements.
 
